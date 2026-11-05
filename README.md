@@ -104,7 +104,7 @@
 
 ## 🤝 `> connect`
 
-<div data-importer="socials" align="center">
+<div data-importer="socials" align="center" height="60">
   <a href="https://www.linkedin.com/in/yazan-qasem-88226b410" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="100" alt="linkedin logo"  />
   </a>
