@@ -150,6 +150,6 @@
 
 </div>
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=127&section=footer&reversal=false&text=ENG.Yazan&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=53&stroke=-&strokeWidth=0&animation=blinking&desc=Ai%20and%20Data%20Science&descSize=20&descAlign=50&descAlignY=80&textBg=false&color=gradient"  />
+  <img style="100%" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=127&section=footer&reversal=false&text=ENG.Yazan&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=53&stroke=-&strokeWidth=0&animation=blinking&desc=Ai%20and%20Data%20Science&descSize=20&descAlign=50&descAlignY=80&textBg=false&color=gradient"  />
 </div>
 
