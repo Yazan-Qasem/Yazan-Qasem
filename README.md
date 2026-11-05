@@ -125,7 +125,9 @@
 
 <div align="center">
   <!-- لتفعيل الثعبان: اتبع الخطوات في ملف التعليمات -->
-  <img src="https://raw.githubusercontent.com/midnightshady/midnightshady/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%" />
+  <img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
+
+###
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
