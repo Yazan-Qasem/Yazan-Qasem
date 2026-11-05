@@ -21,11 +21,29 @@
 
 <br/>
 
-## 🛰️ `> current_mission`
+<table align="center" width="100%">
+<tr>
+<td width="60" align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f52d/512.gif" width="42" /></td>
+<td><b>Currently working on</b><br/>End-to-End AI Products & Full-Stack Apps</td>
+</tr>
+<tr>
+<td align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" width="42" /></td>
+<td><b>Currently learning</b><br/>Advanced Deep Learning Architectures & Scalable AI Infrastructure</td>
+</tr>
+<tr>
+<td align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f46f/512.gif" width="42" /></td>
+<td><b>Looking to collaborate on</b><br/>Open Source ML/NLP Projects & Flutter AI Integrations</td>
+</tr>
+<tr>
+<td align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" width="42" /></td>
+<td><b>Looking for help with</b><br/>Advanced LLM Fine-Tuning & MLOps Deployment</td>
+</tr>
+<tr>
+<td align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ac/512.gif" width="42" /></td>
+<td><b>Ask me about</b><br/>Full-Stack, Flutter, ML, NLP, and n8n Automation</td>
+</tr>
+</table>
 
-| 🔭 Working On | 🌱 Learning | 🎯 Goal |
-|:---:|:---:|:---:|
-| Production-ready REST APIs with Python | FastAPI • SQLAlchemy • Docker • Redis | Become a software engineer who builds systems that last |
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
