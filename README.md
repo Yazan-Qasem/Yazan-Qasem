@@ -17,6 +17,18 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
+## 🤝 `> connect`
+
+<div align="center">
+
+<a href="https://github.com/Yazan-Qasem"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00f5ff" /></a>
+<a href="https://www.linkedin.com/in/yazan-qasem-88226b410"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00f5ff" /></a>
+<a href="mailto:pcyazan5@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00f5ff" /></a>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<br>
+<br/>
+
 <!-- ═══════════════ ABOUT ═══════════════ -->
 
 <br/>
@@ -119,13 +131,6 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- ═══════════════ CONNECT ═══════════════ -->
-## 🤝 `> connect`
-
-<div align="center">
-
-<a href="https://github.com/Yazan-Qasem"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00f5ff" /></a>
-<a href="https://www.linkedin.com/in/yazan-qasem-88226b410"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00f5ff" /></a>
-<a href="mailto:pcyazan5@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00f5ff" /></a>
 
 <br/><br/>
 
