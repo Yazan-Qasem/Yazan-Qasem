@@ -9,6 +9,17 @@
 
 <br/>
 
+![Profile Views](https://komarev.com/ghpvc/?username=midnightshady&label=PROFILE%20VIEWS&color=00f5ff&style=for-the-badge&labelColor=0d1117)
+![Followers](https://img.shields.io/github/followers/midnightshady?style=for-the-badge&logo=github&color=7b2ff7&labelColor=0d1117)
+![Stars](https://img.shields.io/github/stars/midnightshady?style=for-the-badge&logo=star&color=00f5ff&labelColor=0d1117)
+
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🤝 `> connect`
+
 <div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/yazan-qasem-88226b410" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="40" alt="linkedin logo"  />
@@ -23,19 +34,6 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=plastic" height="40" alt="whatsapp logo"  />
   </a>
 </div>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-## 🤝 `> connect`
-
-<div align="center">
-
-<a href="https://github.com/Yazan-Qasem"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00f5ff" /></a>
-<a href="https://www.linkedin.com/in/yazan-qasem-88226b410"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00f5ff" /></a>
-<a href="mailto:pcyazan5@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00f5ff" /></a>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 <br>
 <br/>
