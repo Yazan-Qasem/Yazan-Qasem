@@ -9,9 +9,20 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=midnightshady&label=PROFILE%20VIEWS&color=7b2ff7&style=for-the-badge&labelColor=0d1117)
-![Followers](https://img.shields.io/github/followers/midnightshady?style=for-the-badge&logo=github&color=7b2ff7&labelColor=0d1117)
-![Stars](https://img.shields.io/github/stars/midnightshady?style=for-the-badge&logo=star&color=7b2ff7&labelColor=0d1117)
+<div data-importer="socials" align="center">
+  <a href="https://www.linkedin.com/in/yazan-qasem-88226b410" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/shumukh.studio?vrfl=NDFuZmVkMmszeTBo" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="40" alt="instagram logo"  />
+  </a>
+  <a href="mailto:pcyazan5@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://wa.me/962798294395" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=plastic" height="40" alt="whatsapp logo"  />
+  </a>
+</div>
 
 </div>
 
