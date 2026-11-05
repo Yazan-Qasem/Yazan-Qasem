@@ -9,9 +9,9 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=midnightshady&label=PROFILE%20VIEWS&color=00f5ff&style=for-the-badge&labelColor=0d1117)
+![Profile Views](https://komarev.com/ghpvc/?username=midnightshady&label=PROFILE%20VIEWS&color=7b2ff7&style=for-the-badge&labelColor=0d1117)
 ![Followers](https://img.shields.io/github/followers/midnightshady?style=for-the-badge&logo=github&color=7b2ff7&labelColor=0d1117)
-![Stars](https://img.shields.io/github/stars/midnightshady?style=for-the-badge&logo=star&color=00f5ff&labelColor=0d1117)
+![Stars](https://img.shields.io/github/stars/midnightshady?style=for-the-badge&logo=star&color=7b2ff7&labelColor=0d1117)
 
 </div>
 
