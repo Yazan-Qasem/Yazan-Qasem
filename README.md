@@ -1,66 +1,160 @@
-# Hi 👋, ENG-Yazan
-### Ai and Data Science
+<!-- ╔══════════════════════ HEADER ══════════════════════╗ -->
+<div align="center">
 
-Building Intelligent Products | ML, NLP, Flutter & n8n Workflows.
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:00f5ff&height=280&section=header&text=ENG-YAZAN&fontSize=72&fontColor=00f5ff&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Building%20Intelligent%20Products&descSize=20&descAlignY=60&descColor=ffffff&animation=twinkling" width="100%" />
 
----
+<a href="https://github.com/Yazan-Qasem">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=700&color=00F5FF&center=true&vCenter=true&width=800&height=50&lines=%3E_+SYSTEM+ONLINE...;Hi+%F0%9F%91%8B%2C+ENG-Yazan;AI+%26+Data+Science+Engineer;ML+%E2%80%A2+NLP+%E2%80%A2+Flutter+%E2%80%A2+n8n+Workflows;Building+Intelligent+Products+for+the+Future" alt="Typing SVG" />
+</a>
 
-## 🚀 About Me
-🔭 I'm currently working on End-to-End AI Products & Full-Stack Apps
+<br/><br/>
 
-🌱 I'm currently learning **• • Advanced Deep Learning Architectures & Scalable AI Infrastructure **
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00f5ff?style=for-the-badge&labelColor=0d1117&logo=statuspage&logoColor=00f5ff" />
+<img src="https://img.shields.io/badge/FIELD-AI%20%26%20DATA%20SCIENCE-7b2ff7?style=for-the-badge&labelColor=0d1117&logo=openai&logoColor=7b2ff7" />
+<img src="https://img.shields.io/badge/MODE-BUILDING-ff2e97?style=for-the-badge&labelColor=0d1117&logo=rocket&logoColor=ff2e97" />
 
-👯 I'm looking to collaborate on Open Source ML/NLP Projects & Flutter AI Integrations
+<br/><br/>
 
-🤝 I'm looking for help with Advanced LLM Fine-Tuning & MLOps Deployment
+<img src="https://komarev.com/ghpvc/?username=Yazan-Qasem&label=PROFILE%20VIEWS&color=00f5ff&style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/github/followers/Yazan-Qasem?style=for-the-badge&logo=github&color=7b2ff7&labelColor=0d1117" />
+<img src="https://img.shields.io/github/stars/Yazan-Qasem?style=for-the-badge&logo=github&color=00f5ff&labelColor=0d1117" />
 
-💬 Ask me about Full-Stack, Flutter, ML, NLP, and n8n Automation
+</div>
 
-📫 How to reach me pcyazan5@gmail.com
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" />
 
-## 🤝 Connect
+<!-- ╔══════════════════════ ABOUT ══════════════════════╗ -->
+<h2 align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="38" height="38" /> &nbsp;<code>> about_me</code>&nbsp; <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.gif" width="38" height="38" />
+</h2>
 
-<p align="left">
- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Yazan-Qasem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Yazan-Qasem" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yazan-qasem-88226b410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yazan-qasem-88226b410" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/shumukh.studio?vrfl=ndfuzmvkmmszetbo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shumukh.studio?vrfl=ndfuzmvkmmszetbo" height="30" width="40" /></a>
-</p>
-</p>
+```python
+class EngYazan:
+    field     = "AI and Data Science"
+    tagline   = "Building Intelligent Products | ML, NLP, Flutter & n8n Workflows"
+    status    = "SYSTEM ONLINE 🟢"
 
----
+    def __str__(self):
+        return "Turning data into intelligent products 🚀"
+```
 
-## 💻 Tech Stack
+<table align="center" width="100%">
+<tr>
+<td width="60" align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f52d/512.gif" width="42" /></td>
+<td><b>Currently working on</b><br/>End-to-End AI Products & Full-Stack Apps</td>
+</tr>
+<tr>
+<td align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" width="42" /></td>
+<td><b>Currently learning</b><br/>Advanced Deep Learning Architectures & Scalable AI Infrastructure</td>
+</tr>
+<tr>
+<td align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f46f/512.gif" width="42" /></td>
+<td><b>Looking to collaborate on</b><br/>Open Source ML/NLP Projects & Flutter AI Integrations</td>
+</tr>
+<tr>
+<td align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" width="42" /></td>
+<td><b>Looking for help with</b><br/>Advanced LLM Fine-Tuning & MLOps Deployment</td>
+</tr>
+<tr>
+<td align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ac/512.gif" width="42" /></td>
+<td><b>Ask me about</b><br/>Full-Stack, Flutter, ML, NLP, and n8n Automation</td>
+</tr>
+</table>
 
-<p align="left">
-  <!-- اللغات والتقنيات الأساسية (السطر الأول) -->
- <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/angular" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/angularjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angularjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dart" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a></p>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" />
 
----
+<!-- ╔══════════════════════ TECH STACK ══════════════════════╗ -->
+<h2 align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="38" height="38" /> &nbsp;<code>> tech_stack</code>&nbsp; <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" width="38" height="38" />
+</h2>
 
+<div align="center">
 
-## 📊 GitHub Stats
+**🔹 Languages & Frameworks**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yazan-Qasem&show_icons=true&locale=en&layout=compact" alt="Yazan-Qasem" /></p>
+<img src="https://skillicons.dev/icons?i=py,js,dart,kotlin,cpp,php,html,css,flutter,react,angular,nodejs&theme=dark" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yazan-Qasem&show_icons=true&locale=en" alt="Yazan-Qasem" /></p>
+**🔹 Databases, Cloud & DevOps**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yazan-Qasem&" alt="Yazan-Qasem" /></p>
+<img src="https://skillicons.dev/icons?i=mysql,firebase,docker,git,github&theme=dark" />
 
+**🔹 Design & Mobile**
 
-<p align="center">
-  <img src="https://vercel.app[اسم_حسابك_هنا]&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" width="48%">
-  <img src="https://herokuapp.com[اسم_حسابك_هنا]&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" alt="GitHub Streak" width="48%">
-</p>
+<img src="https://skillicons.dev/icons?i=figma,androidstudio&theme=dark" />
 
----
+**🔹 Automation**
 
-## 📈 Activity Graph
+<img src="https://img.shields.io/badge/n8n-Workflows-ff2e97?style=for-the-badge&logo=n8n&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Machine%20Learning-ML-00f5ff?style=for-the-badge&logo=scikitlearn&logoColor=00f5ff&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/NLP-LLMs-7b2ff7?style=for-the-badge&logo=huggingface&logoColor=7b2ff7&labelColor=0d1117" />
 
-<p align="center">
-  <img src="https://vercel.app[اسم_حسابك_هنا]&theme=github-dark-orange&bg_color=0D1117&hide_border=true" alt="Activity Graph" width="100%">
-</p>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" />
+
+<!-- ╔══════════════════════ STATS ══════════════════════╗ -->
+<h2 align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" width="38" height="38" /> &nbsp;<code>> github_stats</code>&nbsp; <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="38" height="38" />
+</h2>
+
+<div align="center">
+
+<img height="185" src="https://github-readme-stats.vercel.app/api?username=Yazan-Qasem&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=7b2ff7&text_color=c9d1d9&ring_color=00f5ff&border_radius=14" alt="GitHub Stats" />
+<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yazan-Qasem&layout=compact&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&border_radius=14" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Yazan-Qasem&hide_border=true&background=0d1117&ring=00f5ff&fire=ff6b6b&currStreakLabel=00f5ff&currStreakNum=ffffff&sideLabels=c9d1d9&sideNums=ffffff&dates=8b949e&border_radius=14" alt="GitHub Streak" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" />
+
+<!-- ╔══════════════════════ ACTIVITY ══════════════════════╗ -->
+<h2 align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c8/512.gif" width="38" height="38" /> &nbsp;<code>> activity_graph</code>&nbsp; <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" width="38" height="38" />
+</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yazan-Qasem&bg_color=0d1117&color=00f5ff&line=7b2ff7&point=ffffff&area=true&area_color=7b2ff7&hide_border=true&radius=14" width="100%" alt="Activity Graph" />
+</div>
+
+<h2 align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" width="38" height="38" /> &nbsp;<code>> trophies</code>
+</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yazan-Qasem&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&column=7" alt="Trophies" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" />
+
+<!-- ╔══════════════════════ CONTACT ══════════════════════╗ -->
+<h2 align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4eb/512.gif" width="38" height="38" /> &nbsp;<code>> how_to_reach_me</code>
+</h2>
+
+<div align="center">
+
+<a href="mailto:pcyazan5@gmail.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00F5FF&center=true&vCenter=true&width=420&lines=pcyazan5%40gmail.com" alt="Email" />
+</a>
+
+<h2>
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" width="38" height="38" /> &nbsp;<code>> connect</code>
+</h2>
+
+<a href="https://github.com/Yazan-Qasem"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00f5ff" /></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00f5ff" /></a>
+<a href="https://www.instagram.com/YOUR-INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=ff2e97" /></a>
+<a href="mailto:pcyazan5@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=ff6b6b" /></a>
+
+<br/><br/>
+
+```bash
+$ echo "Let's build the future of AI together 🚀"
+```
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:302b63,100:0f0c29&height=150&section=footer&reversal=true&animation=twinkling" width="100%" />
