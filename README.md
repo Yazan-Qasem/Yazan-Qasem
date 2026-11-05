@@ -1,66 +1,135 @@
-# Hi 👋, ENG-Yazan
-### Ai and Data Science
+<!-- ═══════════════ HEADER ═══════════════ -->
+<div align="center">
 
-Building Intelligent Products | ML, NLP, Flutter & n8n Workflows.
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:00f5ff&height=260&section=header&text=MIDNIGHT%20SHADY&fontSize=62&fontColor=00f5ff&fontAlignY=40&desc=%3E_%20Backend%20Developer%20%7C%20Building%20the%20Future%20One%20API%20at%20a%20Time&descSize=18&descAlignY=62&descColor=ffffff&animation=fadeIn" width="100%" />
 
----
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+Imma+Shady;Backend+Developer+%7C+Python+Enthusiast;Building+Reliable+%26+Scalable+Systems;Clean+Architecture+%E2%80%A2+Clean+Code;Final-Year+Computer+Engineering+Student" alt="Typing SVG" />
+</a>
 
-## 🚀 About Me
-🔭 I'm currently working on End-to-End AI Products & Full-Stack Apps
+<br/>
 
-🌱 I'm currently learning **• • Advanced Deep Learning Architectures & Scalable AI Infrastructure **
+![Profile Views](https://komarev.com/ghpvc/?username=midnightshady&label=PROFILE%20VIEWS&color=00f5ff&style=for-the-badge&labelColor=0d1117)
+![Followers](https://img.shields.io/github/followers/midnightshady?style=for-the-badge&logo=github&color=7b2ff7&labelColor=0d1117)
+![Stars](https://img.shields.io/github/stars/midnightshady?style=for-the-badge&logo=star&color=00f5ff&labelColor=0d1117)
 
-👯 I'm looking to collaborate on Open Source ML/NLP Projects & Flutter AI Integrations
+</div>
 
-🤝 I'm looking for help with Advanced LLM Fine-Tuning & MLOps Deployment
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-💬 Ask me about Full-Stack, Flutter, ML, NLP, and n8n Automation
+<!-- ═══════════════ ABOUT ═══════════════ -->
+## 🧬 `> whoami`
 
-📫 How to reach me pcyazan5@gmail.com
----
+```python
+class Shaddy:
+    role      = "Backend Developer"
+    education = "Final-Year Computer Engineering Student"
+    focus     = ["Scalable APIs", "Clean Architecture", "Real-world Systems"]
+    learning  = ["FastAPI", "PostgreSQL", "SQLAlchemy", "Docker", "Redis"]
+    practicing = "Data Structures & Algorithms"
+    goal      = "Write clean code, build reliable software, create systems that last."
 
-## 🤝 Connect
+    def __str__(self):
+        return "Building the future, one endpoint at a time 🚀"
+```
 
-<p align="left">
- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Yazan-Qasem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Yazan-Qasem" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yazan-qasem-88226b410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yazan-qasem-88226b410" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/shumukh.studio?vrfl=ndfuzmvkmmszetbo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shumukh.studio?vrfl=ndfuzmvkmmszetbo" height="30" width="40" /></a>
-</p>
-</p>
+<br/>
 
----
+## 🛰️ `> current_mission`
 
-## 💻 Tech Stack
+| 🔭 Working On | 🌱 Learning | 🎯 Goal |
+|:---:|:---:|:---:|
+| Production-ready REST APIs with Python | FastAPI • SQLAlchemy • Docker • Redis | Become a software engineer who builds systems that last |
 
-<p align="left">
-  <!-- اللغات والتقنيات الأساسية (السطر الأول) -->
- <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/angular" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/angularjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angularjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dart" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a></p>
-</p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
----
+<!-- ═══════════════ TECH STACK ═══════════════ -->
+## ⚡ `> tech_stack`
 
+<div align="center">
 
-## 📊 GitHub Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yazan-Qasem&show_icons=true&locale=en&layout=compact" alt="Yazan-Qasem" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yazan-Qasem&show_icons=true&locale=en" alt="Yazan-Qasem" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yazan-Qasem&" alt="Yazan-Qasem" /></p>
-
-
-<p align="center">
-  <img src="https://vercel.app[اسم_حسابك_هنا]&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" width="48%">
-  <img src="https://herokuapp.com[اسم_حسابك_هنا]&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" alt="GitHub Streak" width="48%">
+### 🔹 Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=py,fastapi,c,html,css&theme=dark" />
 </p>
 
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://vercel.app[اسم_حسابك_هنا]&theme=github-dark-orange&bg_color=0D1117&hide_border=true" alt="Activity Graph" width="100%">
+### 🔹 Databases & Caching
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark" />
 </p>
+
+### 🔹 DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,aws,gcp,linux&theme=dark" />
+</p>
+
+### 🔹 AI / Data
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,numpy&theme=dark" />
+</p>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- ═══════════════ STATS ═══════════════ -->
+## 📊 `> github_stats`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=midnightshady&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=7b2ff7&text_color=c9d1d9&ring_color=00f5ff&border_radius=12" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midnightshady&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&border_radius=12" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=midnightshady&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=ff6b6b&currStreakLabel=00f5ff&currStreakNum=ffffff&sideLabels=c9d1d9&sideNums=ffffff&dates=8b949e&border_radius=12" />
+
+</div>
+
+<br/>
+
+## 📈 `> activity_graph`
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=midnightshady&bg_color=0d1117&color=00f5ff&line=7b2ff7&point=ffffff&area=true&area_color=7b2ff7&hide_border=true&radius=12" width="100%" />
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- ═══════════════ TROPHIES ═══════════════ -->
+## 🏆 `> achievements`
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=midnightshady&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&column=7" />
+</div>
+
+<br/>
+
+## 🐍 `> contribution_snake`
+
+<div align="center">
+  <!-- لتفعيل الثعبان: اتبع الخطوات في ملف التعليمات -->
+  <img src="https://raw.githubusercontent.com/midnightshady/midnightshady/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%" />
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- ═══════════════ CONNECT ═══════════════ -->
+## 🤝 `> connect`
+
+<div align="center">
+
+<a href="https://github.com/midnightshady"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00f5ff" /></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00f5ff" /></a>
+<a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00f5ff" /></a>
+
+<br/><br/>
+
+```bash
+$ echo "Let's build something meaningful together 🚀"
+```
+
+</div>
+
+<!-- ═══════════════ FOOTER ═══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:302b63,100:0f0c29&height=140&section=footer&reversal=true" width="100%" />
