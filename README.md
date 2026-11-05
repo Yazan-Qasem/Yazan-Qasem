@@ -1,7 +1,7 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:00f5ff&height=260&section=header&text=YAZAN%20QASEM&fontSize=62&fontColor=00f5ff&fontAlignY=40&desc=%3E_%20Backend%20Developer%20%7C%20Building%20the%20Future%20One%20API%20at%20a%20Time&descSize=18&descAlignY=62&descColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:00f5ff&height=260&section=header&text=YAZAN%20QASEM&fontSize=62&fontColor=00f5ff&fontAlignY=40&desc=%3E_%20Backend%20Developer%20%7C%20Building%20the%20Future%20One%20AI%20Model%20at%20Time&descSize=18&descAlignY=62&descColor=ffffff&animation=fadeIn" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+Yazan+Qasem;Backend+Developer+%7C+Python+Enthusiast;Building+Reliable+%26+Scalable+Systems;Clean+Architecture+%E2%80%A2+Clean+Code;Final-Year+Ai+Engineering+Student" alt="Typing SVG" />
